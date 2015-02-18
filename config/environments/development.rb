@@ -36,8 +36,8 @@ Rails.application.configure do
   # Raises helpful error messages.
   config.assets.raise_runtime_errors = true
 
-  config.twitter_key = "57GN0lT2UXdqHCzJiPJXYTVs8"
-  config.twitter_secret= "oHLsdJHP4jAW3yN99mczxY7orw1ih8ivr7APycmYzRTpDAjJtF"
+  config.twitter_key = "twitter_key"
+  config.twitter_secret= "twitter_secret"
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 end
