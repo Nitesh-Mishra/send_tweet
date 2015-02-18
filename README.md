@@ -1,0 +1,1 @@
+In this application i have configured single sign on with twitter using omniauth and than through which we can also send tweet to twitter in Ruby on Rails.
